@@ -3,12 +3,16 @@
  I'm currently studying Informatics in Medicine (Biomedical Engineering) at Gdansk University of Technology
  
  ## 💻 Skills
- - **Languages: ** Java, Python, C#
+ - **Languages:** Java, Python, C#
  - **Databases:** Postgres
 
-## Currently learning
+## 📚 Currently learning
 - JavaScript
 - React
+
+## 👋 About me
+- collaborative
+- eager to learns
 
 <!---
 olvcha/olvcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
