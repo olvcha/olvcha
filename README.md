@@ -7,8 +7,8 @@
  - **Databases:** Postgres
 
 ## 📚 Currently learning
-- JavaScript
-- React
+- Spring
+- JavaScript/Angular
 
 ## 👋 About me
 - collaborative
