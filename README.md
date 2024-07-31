@@ -8,7 +8,7 @@
 
 ## 📚 Currently learning
 - Spring
-- JavaScript/Angular
+- TypeScript/Angular
 
 ## 👋 About me
 - collaborative
