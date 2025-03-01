@@ -1,9 +1,9 @@
  # Hi, I’m Ola 🤗
 
- I'm currently studying Informatics in Medicine (Biomedical Engineering) at Gdansk University of Technology
+ I'm currently studying Computer Science (master's degree) at Gdansk University of Technology
  
  ## 💻 Skills
- - **Languages:** Java, Python, C#
+ - **Languages:** Java, Python, C++
  - **Databases:** Postgres
 
 ## 📚 Currently learning
